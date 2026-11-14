@@ -1,0 +1,38 @@
+.card-border {
+  width: 200px;
+  padding: 2px;
+  background: linear-gradient(
+    135deg,
+    #e6c500,
+    #00a83b
+  );
+  border-radius: 3px;
+}
+
+.card {
+  width: 100%;
+  min-height: 170px;
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 22px 12px;
+}
+
+.card img {
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+  margin: 0 auto;
+  border-radius: 3px;
+}
+
+.card h3 {
+  font-size: 16px;
+  color: #a58cff;
+  margin: 12px 0 8px;
+}
+
+.card p {
+  font-size: 11px;
+  color: #aaa;
+}
